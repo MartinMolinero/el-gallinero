@@ -1,2 +1,7 @@
-# el-gallinero
-Template for el gallinero site
+# el-gallinero site
+
+## tech-stack
+HTML, CSS, Js
+
+## pipeline
+TBD
